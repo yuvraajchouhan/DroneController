@@ -1,1 +1,1 @@
-initial commit
+1. Install the required dependency `pip install djitellopy flask` 
