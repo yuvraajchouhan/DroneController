@@ -2,6 +2,8 @@ from djitellopy import Tello
 from flask import Flask, request, jsonify
 import time
 
+
+
 class DroneController:
     def __init__(self):
         self.drone = Tello()
